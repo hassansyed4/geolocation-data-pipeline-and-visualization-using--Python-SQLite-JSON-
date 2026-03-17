@@ -109,3 +109,9 @@ The dataset contained only university names without any geographic coordinates. 
 This project demonstrates a complete data pipeline workflow — from raw input data to actionable visual insights — making it highly relevant for Data Engineer, Data Analyst, and Data Scientist roles.
 
 ---
+
+## Images
+
+<img width="665" height="945" alt="API Result in JSON" src="https://github.com/user-attachments/assets/0089d042-765f-4af9-8d21-2b9c4ad51ef6" />
+
+---
