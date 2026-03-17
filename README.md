@@ -70,7 +70,7 @@ The dataset contained only university names without any geographic coordinates. 
 - **Libraries:** urllib, sqlite3, json, ssl
 
 ---
-
+```
 ## Project Structure
 ├── geoload.py # Fetches geolocation data from API
 ├── geodump.py # Extracts data and prepares visualization
@@ -79,7 +79,7 @@ The dataset contained only university names without any geographic coordinates. 
 ├── where.js # JavaScript file for map visualization
 ├── where.html # Map visualization UI
 ├── README.md # Project documentation
-
+```
 
 ---
 
