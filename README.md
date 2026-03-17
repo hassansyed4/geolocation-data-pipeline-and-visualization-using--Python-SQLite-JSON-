@@ -113,14 +113,10 @@ This project demonstrates a complete data pipeline workflow — from raw input d
 ## Images
 
 <img width="665" height="945" alt="API Result in JSON" src="https://github.com/user-attachments/assets/0089d042-765f-4af9-8d21-2b9c4ad51ef6" />
-
-
+---
 <img width="682" height="327" alt="SQLite DB Data Structure" src="https://github.com/user-attachments/assets/c081b424-4241-46de-b8e5-b9d49b50777b" />
-
-
+---
 <img width="1212" height="380" alt="Pin Locatios of All Searched Universities" src="https://github.com/user-attachments/assets/37444452-ea9b-4253-9d45-aa77e372353e" />
-
-
+---
 <img width="938" height="380" alt="Pin Location of Univ  of St  Thomas and UOfM" src="https://github.com/user-attachments/assets/a7dbf8f9-2da7-4841-8732-e7711f4bd3a0" />
-
 ---
